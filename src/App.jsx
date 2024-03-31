@@ -1,25 +1,11 @@
 import React from 'react'
 import './App.css'
-import './script.js'
-import { Link, Route, BrowserRouter as Router, Routes } from 'react-router-dom'
-import Home from './component/Home.jsx'
+
+
 
 function App() {
   return (
-    <div>
-      <Router>
-         <div>
-         <header className="header">
-         <nav className='navbar'>
-          <Link to='/'>Home</Link>
-          </nav>
-          </header>
-         </div>
-         
-         <Routes>
-             <Route path='/' element={<Home/>}/>
-         </Routes>
-      </Router>
+    <div> 
       <header className="header">
 
         <a href='#' className='logo'>diet</a>
@@ -36,13 +22,13 @@ function App() {
 
         <div className='fas fa-bars' id='menu'></div>
       </header>
-      {/* <section className='home' id='home'>
+       <section className='home' id='home'>
 
         <div className='content'>
           <h3>Welcome to the place full of healthy food</h3>
           <a href='#' className='btn'>read more</a>
         </div>
-      </section> */}
+      </section> 
 
       <section className="about" id='about'>
 
@@ -362,7 +348,7 @@ As for fat, most of it will come as a by-product of your protein foods, but you 
        </section>
       <section className="reviews" id="reviews">
 
-        <h1 className="heading">client's reviews</h1>
+        <h1 className="heading">client\'s reviews</h1>
 
         <div className='swiper review-slider'>
 
