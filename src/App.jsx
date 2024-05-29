@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './App.css';
 import { Link, BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import About from './components/About';
@@ -12,12 +12,6 @@ import Login from './components/Login';
 import Register from './components/Register';
 
 function App() {
-  // Define state to manage whether the CaloriesCalculator component should be rendered
-  
-
-  // Function to handle the button click and toggle the state
-  
-
 
   return (
    
