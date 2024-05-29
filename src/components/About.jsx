@@ -21,7 +21,7 @@ As for fat, most of it will come as a by-product of your protein foods, but you 
   </div>
 
   <div className='image'>
-    <img src='../src/assets/Red-Apple-Fruit-PNG-High-Quality-Image.png' alt='default image'></img>
+    <img src='../src/components/assets/Red-Apple-Fruit-PNG-High-Quality-Image.png' alt='default image'></img>
   </div>
 </div>
 </section>

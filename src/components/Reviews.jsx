@@ -13,7 +13,7 @@ function Reviews() {
 
       <p>As someone with dietary restrictions, I was skeptical about finding a diet app that would cater to my needs. However, the Diets app exceeded my expectations! It offers a wide variety of recipes that can be easily filtered based on dietary preferences and restrictions. I no longer feel limited in my meal options, and I'm grateful for the support this app provides on my journey to better health."</p>
       <div className="user">
-        <img src='../src/assets/pro4.jpeg' alt='default image'/>
+        <img src='../src/components/assets/pro4.jpeg' alt='default image'/>
         <div className='info'>
 
           <h3>
@@ -28,7 +28,7 @@ function Reviews() {
 
       <p>HealthyEats.com has been a game-changer for me! The variety of recipes and meal plans cater to all dietary preferences, whether you're vegan, gluten-free, or just looking to eat cleaner. The site is user-friendly, with easy-to-follow instructions and nutrition information provided for each recipe. Plus, the community aspect is fantastic – I love being able to connect with other members for support and recipe ideas. Highly recommend!</p>
       <div className="user">
-        <img src='../src/assets/pro1.jpeg' alt=''/>
+        <img src='../src/components/assets/pro1.jpeg' alt=''/>
         <div className='info'>
       
           <h3>
@@ -43,7 +43,7 @@ function Reviews() {
     
       <p>I've tried countless diet apps in the past, but none compare to the Diets app. What sets it apart is its user-friendly interface and extensive library of recipes. I love how I can easily search for recipes based on ingredients I already have at home. Plus, the ability to track my progress and set reminders keeps me motivated to stay on track with my health goals. Highly recommend this app to anyone looking to make positive changes to their diet!"</p>
       <div className="user">
-        <img src='../src/assets/pro2.jpeg' alt=''/>
+        <img src='../src/components/assets/pro2.jpeg' alt=''/>
         <div className='info'>
       
           <h3>
@@ -58,7 +58,7 @@ function Reviews() {
 
 <p>The Diets app has been a lifesaver for me! As a busy professional, I struggled to find the time to plan and prepare healthy meals. This app has made it so much easier with its diverse range of recipes and customizable meal plans. I've already lost 10 pounds in just a few weeks, and I feel more energetic than ever. Thank you, Diets app!"</p>
 <div className="user">
-<img src='../src/assets/pro3.jpeg' alt=''/>
+<img src='../src/components/assets/pro3.jpeg' alt=''/>
 <div className='info'>
 
 <h3>

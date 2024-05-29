@@ -9,19 +9,19 @@ function Diet() {
 
 <ul className='controls'>
   <li className='buttons active' data-filter='all'>
-    <img src="../src/assets/smile.png" alt="default image" />
+    <img src="../src/components/assets/smile.png" alt="default image" />
     <h3>all</h3>
   </li>
   <li className='buttons' data-filter='breakfast'>
-    <img src="../src/assets/breakfast-with-coffee-fresh-croissants_2829-17554.jpg" alt="" />
+    <img src="../src/components/assets/breakfast-with-coffee-fresh-croissants_2829-17554.jpg" alt="" />
     <h3>breakfast</h3>
   </li>
   <li className='buttons' data-filter='lunch'>
-    <img src="../src/assets/traditional-south-indian-meal-food-served-big-banana-leaf-food-platter-complete-thali-selective-focus_466689-50746.jpg" alt="" />
+    <img src="../src/components/assets/traditional-south-indian-meal-food-served-big-banana-leaf-food-platter-complete-thali-selective-focus_466689-50746.jpg" alt="" />
     <h3>lunch</h3>
   </li>
   <li className='buttons' data-filter='dinner'>
-    <img src="../src/assets/high-angle-indian-food-assortment_23-2148747704.jpg" alt="" />
+    <img src="../src/components/assets/high-angle-indian-food-assortment_23-2148747704.jpg" alt="" />
     <h3>dinner</h3>
   </li>
   
@@ -30,7 +30,7 @@ function Diet() {
 <div className="image-container">
   <div className="box lunch">
     <div className="image">
-      <img src='../src/assets/breakfast1.jpeg' alt=''/>
+      <img src='../src/components/assets/breakfast1.jpeg' alt=''/>
     </div>
     <div className="content">
       <a href='https://www.bbcgoodfood.com/recipes/chia-oat-breakfast-scones-yogurt-and-berries?IGNORE_GEO_REDIRECT_GLOBAL=true&v=1760090971' className='link'>Chia & oat breakfast scones with yogurt and berries</a>
@@ -44,7 +44,7 @@ function Diet() {
   </div>
   <div className="box dinner">
     <div className="image">
-      <img src='../src/assets/lunch1.jpeg' alt='default image'/>
+      <img src='../src/components/assets/lunch1.jpeg' alt='default image'/>
     </div>
     <div className="content">
       <a href='https://recipes.net/main-dish/soup/chickpea-soup-with-chunky-gremolata/' className='link'>Chickpea Soup with Chunky Gremolata</a>
@@ -58,7 +58,7 @@ function Diet() {
   </div>
   <div className="box breakfast">
     <div className="image">
-      <img src='../src/assets/dinner1.jpg' alt='default image'/>
+      <img src='../src/components/assets/dinner1.jpg' alt='default image'/>
     </div>
     <div className="content">
       <a href='https://foragerchef.com/raw-porcini-salad-with-chickweed-watercress-and-parmesan/' className='link'> PORCINI SALAD WITH GREENS AND PARMESAN</a>
@@ -72,7 +72,7 @@ function Diet() {
   </div>
   <div className="box breakfast">
     <div className="image">
-      <img src='../src/assets/egg-wraps-1024x1536.webp' alt='default image'/>
+      <img src='../src/components/assets/egg-wraps-1024x1536.webp' alt='default image'/>
     </div>
     <div className="content">
       <a href='https://thebigmansworld.com/egg-wraps/' className='link'>Egg Wraps</a>
@@ -86,7 +86,7 @@ function Diet() {
   </div>
   <div className="box lunch">
     <div className="image">
-      <img src='../src/assets/Noodle-Salad-Creamy-Sesame-Peanut-Dressing_5.webp' alt='default image'/>
+      <img src='../src/components/assets/Noodle-Salad-Creamy-Sesame-Peanut-Dressing_5.webp' alt='default image'/>
     </div>
     <div className="content">
       <a href='https://www.recipetineats.com/noodle-salad-creamy-sesame-peanut-dressing/' className='link'>Noodle Salad with Sesame Peanut Dressing</a>
@@ -100,7 +100,7 @@ function Diet() {
   </div>
   <div className="box dinner">
     <div className="image">
-      <img src='../src/assets/paneer-jalfrezi-440-400-e63da48.webp' alt='default image'/>
+      <img src='../src/components/assets/paneer-jalfrezi-440-400-e63da48.webp' alt='default image'/>
     </div>
     <div className="content">
       <a href='https://www.bbcgoodfood.com/recipes/paneer-jalfrezi-cumin-rice?IGNORE_GEO_REDIRECT_GLOBAL=true&v=1472756210' className='link'>Paneer jalfrezi with cumin rice</a>
@@ -114,7 +114,7 @@ function Diet() {
   </div>
   <div className="box dinner">
     <div className="image">
-      <img src='../src/assets/breakfast2.jpeg' alt='default image'/>
+      <img src='../src/components/assets/breakfast2.jpeg' alt='default image'/>
     </div>
     <div className="content">
       <a href='https://www.everyday-phenomenal.com/blogs/tasty-tuesday/quinoa-peach-and-ginger-bircher' className='link'>QUINOA, PEACH AND GINGER BIRCHER</a>
@@ -128,7 +128,7 @@ function Diet() {
   </div>
   <div className="box dinner">
     <div className="image">
-      <img src='../src/assets/dinner2.webp' alt='default image'/>
+      <img src='../src/components/assets/dinner2.webp' alt='default image'/>
     </div>
     <div className="content">
       <a href='https://www.jamieoliver.com/recipes/pasta-recipes/aubergine-penne-arrabbiata/' className='link'>Aubergine penne arrabbiata</a>
@@ -142,7 +142,7 @@ function Diet() {
   </div>
   <div className="box dinner">
     <div className="image">
-      <img src='../src/assets/lunch2.jpg' alt='default image'/>
+      <img src='../src/components/assets/lunch2.jpg' alt='default image'/>
     </div>
     <div className="content">
       <a href='https://simple-veganista.com/vegan-jambalaya/' className='link'>VEGAN JAMBALAYA</a>
