@@ -12,7 +12,7 @@ function Services() {
         <div className="box">
           <div className="icon">
 
-            <img src='../src/components/assets/young-medical-student_144627-9951.jpg' alt=''/>
+            <img src='../src/components/young-medical-student_144627-9951.jpg' alt=''/>
           </div>
 
           <div className="content">
@@ -31,7 +31,7 @@ function Services() {
         <div className="box">
           <div className="icon">
 
-            <img src='../src/components/assets/this-is-my-help-environment_329181-9688.jpg' alt=''/>
+            <img src='../src/components/this-is-my-help-environment_329181-9688.jpg' alt=''/>
           </div>
 
           <div className="content">
@@ -50,7 +50,7 @@ function Services() {
         <div className="box">
           <div className="icon">
 
-            <img src='../src/components/assets/front-view-female-courier-yellow-shirt-yellow-cap-smiling-holding-bowls-with-food-paper-white_140725-19735.jpg' alt=''/>
+            <img src='../src/components/front-view-female-courier-yellow-shirt-yellow-cap-smiling-holding-bowls-with-food-paper-white_140725-19735.jpg' alt=''/>
           </div>
 
           <div className="content">

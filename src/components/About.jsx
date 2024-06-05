@@ -35,7 +35,7 @@ function About() {
 
           <div className="image">
             <img
-              src="../src/components/assets/Red-Apple-Fruit-PNG-High-Quality-Image.png"
+              src="../src/components/Red-Apple-Fruit-PNG-High-Quality-Image.png"
               alt="default image"
             ></img>
           </div>

@@ -104,14 +104,14 @@ function Home() {
           </h2>
           <img
             id="png"
-            src="../src/components/assets/png-transparent-business-management-customer-service-eye-lead-generation-sorpresa-hand-service-girl-thumbnail-removebg-preview.png"
+            src="../src/components/png-transparent-business-management-customer-service-eye-lead-generation-sorpresa-hand-service-girl-thumbnail-removebg-preview.png"
             alt="default png"
           />
           <button id="button">
             <Link to="/calories-calculator"> Calories Calculator</Link>
             <img
               id="img"
-              src="../src/components/assets/touch.png"
+              src="../src/components/touch.png"
               alt="touch"
             />
           </button>
@@ -128,7 +128,7 @@ function Home() {
           </p>
         </div>
         <div>
-          <img src="../src/components/assets/fit-woman-showing-balanced-diet-7358593-6019527.png" alt="default" />
+          <img src="../src/components/fit-woman-showing-balanced-diet-7358593-6019527.png" alt="default" />
         </div>
       </div>
 
