@@ -1,5 +1,6 @@
 import React from 'react'
 import './Pricing.css'
+import Product from './Product'
 function Pricing() {
   return (
     <div>
@@ -77,7 +78,8 @@ function Pricing() {
 
 </div>
 </section>
-
+<h2>Products</h2>
+<Product/>
     </div>
   )
 }

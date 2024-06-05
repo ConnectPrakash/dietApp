@@ -40,8 +40,7 @@ function App() {
           <Route path="/reviews" element={<Reviews />} />
          <Route path='/login' element={<Login/>} />
          <Route path='/sign up' element={<Register/>}/>
-      
-          <Route path="/calories-calculator" element={<CaloriesCalculator/>} />
+         <Route path="/calories-calculator" element={<CaloriesCalculator/>} />
       
    
       

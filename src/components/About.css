@@ -139,4 +139,12 @@ body {
   main h2 {
     margin-top: 0;
   }
-  
+  .weightloss{
+    margin-top: 50px;
+    width:100%;
+    margin-bottom: 20px;
+  }
+  .weightgain{
+    margin-top: 50px;
+    width: 100%;
+  }
